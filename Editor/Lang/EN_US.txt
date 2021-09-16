@@ -1,0 +1,29 @@
+AVATAR.MAIN=Avatar
+AVATAR.DESCRIPTION=The main avatar object.
+AVATAR.ERROR=The selected object needs to be the root of the avatar.
+
+MENU.HEADER=Menu Options
+MENU.AVATAR.MENU=Current menu
+MENU.AVATAR.DESCRIPTION=The current avatar menu on the selected avatar.
+MENU.TOGGLE.MENU=Menu toggle
+MENU.TOGGLE.DESCRIPTION=The menu where the toggle will be.
+
+PARAM.HEADER=Param Options
+PARAM.TOGGLE.MENU=Param menu
+PARAM.TOGGLE.MENU.DESCRIPTION=The param menu of the avatar.
+PARAM.TOGGLE.NAME=Param name
+PARAM.TOGGLE.NAME.DESCRIPTION=The name of the parameter.
+PARAM.DEFAULT=Default
+PARAM.DEFAULT.DESCRIPTION=If the default tickbox is ticked.
+PARAM.TOGGLE.ERROR=The name of the toggle. Can't be empty.
+
+LAYER.HEADER=Layer Options
+LAYER.NAME=Layer name
+LAYER.NAME
+
+LAYER.ERROR=The layer name of the toggle within the controller.
+
+OBJECT.OBJECT.ERROR=Add at least one Object to toggle from the avatars hierarchy.
+
+OBJECT.BLEND.ERROR=Make shure there is a blend shape in the top.
+OBJECT.BLEND.OBJECT.ERROR=Add at Object for blendshape.
